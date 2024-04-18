@@ -1,0 +1,12 @@
+C:\Projects\PayrollManagementSystem\GenericRepository\bin\Debug\net6.0\GenericRepository.deps.json
+C:\Projects\PayrollManagementSystem\GenericRepository\bin\Debug\net6.0\GenericRepository.dll
+C:\Projects\PayrollManagementSystem\GenericRepository\bin\Debug\net6.0\GenericRepository.pdb
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.csproj.AssemblyReference.cache
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.AssemblyInfoInputs.cache
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.AssemblyInfo.cs
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.csproj.CoreCompileInputs.cache
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.dll
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\refint\GenericRepository.dll
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\GenericRepository.pdb
+C:\Projects\PayrollManagementSystem\GenericRepository\obj\Debug\net6.0\ref\GenericRepository.dll
