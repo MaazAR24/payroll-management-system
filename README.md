@@ -1,4 +1,4 @@
-# Payroll Management System
+# Introduction
 
 This project is a payroll management system developed in ASP.NET Core 6. It follows a layered architecture pattern and utilizes the generic repository pattern for data access. Additionally, it includes a generic file uploader feature.
 
