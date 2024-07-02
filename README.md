@@ -5,5 +5,5 @@ This project is a payroll management system developed in ASP.NET Core 6. It foll
 ## Features
 
 - **Layered Architecture**: The project is structured using a layered architecture pattern to separate concerns and improve maintainability.
-- **Generic Repository Pattern**: Data access is implemented using the generic repository pattern, allowing for flexibility and reusability in data operations.
+- **Generic Repository Pattern**: Data access and persistence is implemented using the generic repository pattern, allowing for flexibility and reusability in data operations.
 - **File Uploader**: Includes a generic file uploader feature for uploading various types of files related to payroll management.
